@@ -1,13 +1,15 @@
-# token_28421.aleo
+# ALEO
 
-## Build Guide
+This is my repo for Aleo HackerHouse Workshops during DevConnect Istanbul
 
-To compile this Aleo program, run:
-```bash
-snarkvm build
-```
 
-To execute this Aleo program, run:
-```bash
-snarkvm run hello
-```
+## Workshop 1
+
+Getting familiar with Aleo and leo's syntax, the global variables etc
+
+
+## Workshop 2
+
+Using aleojs-alpha to learn testing leo programs
+
+NOTE: This directory is not pushed as it was a demonstration of the template created by aleojs-alpha only
