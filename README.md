@@ -20,7 +20,7 @@ Using create aleo app to make a configurable aleo project with a frontend
 
 ## Workshop 4
 
-Making a zk NFT collection
+Making a zk NFT collection using art-factory
 
 ## Workshop 5
 
